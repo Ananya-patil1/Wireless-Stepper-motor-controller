@@ -1,0 +1,16 @@
+_delay: CODE, 1001 0 34
+__stringtab: STRING, 956 0 16
+_lcd_puts: CODE, 858 0 51
+__stringdata: STRING, 972 0 29
+_lcd_putch: CODE, 1099 0 30
+_myISR: CODE, 21 0 783
+_UART_RX_Init: CODE, 1159 0 19
+_main: CODE, 909 0 47
+__initialization: CODE, 1194 0 9
+_lcd_clear: CODE, 1178 0 16
+_lcd_goto: CODE, 1207 0 8
+_lcd_ins: CODE, 1035 0 32
+i1_delay: CODE, 1067 0 32
+_lcd_init: CODE, 804 0 54
+i1_lcd_ins: CODE, 1129 0 30
+Total: 1190
